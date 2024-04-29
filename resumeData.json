@@ -66,17 +66,17 @@
         "company": "Lean Innovation Labs",
         "title": "Lead Software Developer",
         "years": "Jan 2024 - Current",
-        "description": "Led software development lifecycle phases, including requirements collection, design, and development. Developed highly scalable web applications using React, Redux, and other technologies. Transformed NodeJS APIs into intuitive UI interfaces. Engineered Python microservices for AI integration and dynamic file generation. Implemented efficient caching to reduce latency. Collaborated with cross-functional teams for high-quality application delivery."
+        "description": "Led software development lifecycle phases, including requirements collection, design, and development. Developed highly scalable web applications. Transformed APIs into intuitive UI interfaces. Engineered microservices for AI integration and dynamic file generation. Implemented efficient caching to reduce latency. Collaborated with cross-functional teams for high-quality application delivery."
       },
       {
         "company": "Agricultural Sciences UGA",
         "title": "Sr. Full Stack Developer",
         "years": "Jan 2022 - Dec 2023",
-        "description": "Developed user-friendly tools using NodeJS, React, and TypeScript. Engineered Python microservices for AI integration. Utilized Redux for state management. Led agile development with pair programming. Built dynamic web pages using React, Redux, HTML5, and CSS3. Optimized application performance and scalability. Integrated AWS services for enhanced functionality."
+        "description": "Developed user-friendly tools. Engineered microservices for AI integration. Led agile development with pair programming. Built dynamic web pages. Optimized application performance and scalability. Integrated AWS services for enhanced functionality."
       },
       {
         "company": "GE",
-        "title": "React Fullstack Developer",
+        "title": "Fullstack Developer",
         "years": "Oct 2019 - Nov 2021",
         "description": "Designed and implemented Restful Microservices using Java. Implemented Redis-based caching for microservices. Developed JUnit test scripts. Proficient in TypeScript for better code organization. Utilized CI/CD pipeline tools like Jenkins and Electric commander. Integrated Docker and Kubernetes for deployment. Experienced in modern JavaScript frameworks such as React and Angular."
       },
@@ -84,13 +84,13 @@
         "company": "Quanteon Solutions",
         "title": "UI Fullstack Developer",
         "years": "Aug 2016 - Aug 2017",
-        "description": "Developed single-page applications using React, Redux, and NodeJS. Adopted agile methodology with pair programming. Created reusable components and services. Built dynamic web pages with React, Redux, HTML5, and CSS3. Utilized Docker for deployment. Experienced in UI technologies like Sass, LESS, and Grunt."
+        "description": "Developed single-page applications. Adopted agile methodology with pair programming. Created reusable components and services. Built dynamic web pages. Utilized Docker for deployment. Experienced in UI technologies like Sass, LESS, and Grunt"
       },
       {
         "company": "Berkadia",
         "title": "Web Developer",
         "years": "Aug 2013 - July 2016",
-        "description": "Coded web applications using JavaScript, HTML, CSS, and AJAX. Developed single-page applications using React, Redux, and NodeJS. Created user-friendly websites using ReactJS and NodeJS. Optimized website performance and scalability. Utilized CI/CD pipeline tools like Jenkins. Experienced in UI technologies like Sass, LESS, and Grunt."
+        "description": "Coded web applications using JavaScript, HTML, CSS, and AJAX. Developed single-page applications. Created user-friendly websites. Optimized website performance and scalability. Utilized CI/CD pipeline tools. Experienced in UI technologies like Sass, LESS, and Grunt."
       }
   ],
   "skills":[
